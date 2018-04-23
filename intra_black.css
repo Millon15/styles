@@ -1,22 +1,22 @@
 @-moz-document domain("42.fr") {
 	html:root {
-		--event-meet: #ff9324;
+		--event-meet: #00abac;
 	}
 	#react-select-2--value-item {
 		color: #D9D9D9 !important;
 	}
 	.profile-title a.simple-link {
-		border: 1px solid rgba(255, 147, 36, 0.7);
+		border: 1px solid #047b7b;
 	}
 	.school-record-button {
-		border: 1px solid rgba(255, 147, 36, 0.7);
+		border: 1px solid #047b7b;
 	}
 	a {
-		color: #ff9324;
+		color: #00abac;
 		text-decoration: none;
 	}
 	.progress-bar {
-		background: #ff9324 !important;
+		background: #00abac !important;
 	}
 	.user-column1 {
 		background-image: url(https://cdn.intra.42.fr/coalition/cover/4/order_background.jpg) !important;
@@ -190,7 +190,7 @@
 	.profile-menu .nav li.active a:focus,
 	li[role="presentation"]>a:hover,
 	li[role="presentation"]>a:focus {
-		background-color: #ff9324;
+		background-color: #00abac;
 		color: #d9d9d9;
 	}
 	.main-navbar .main-navbar-user-nav #quest-menu.open a,
@@ -376,7 +376,7 @@
 		border-color: white;
 	}
 	#project-show .project-status-box[data-status=subscribed] {
-		background-color: #ff9324 !important;
+		background-color: #00abac !important;
 	}
 	a.fc-day-grid-event.fc-h-event.fc-event.fc-start.fc-end.event-item.exam {
 		background-color: #d8636f !important;
@@ -433,10 +433,10 @@
 		background-color: #222;
 	}
 	button.js-topic--submit-button:hover {
-		background-color: #ff9324;
+		background-color: #00abac;
 	}
 	button.js-topic--submit-button:focus {
-		background-color: #ff9324;
+		background-color: #00abac;
 	}
 	input.search-input {
 		background-color: transparent !important;
@@ -444,7 +444,7 @@
 	}
 	a.unclickable,
 	a.invert {
-		background-color: #ff9324 !important;
+		background-color: #00abac !important;
 	}
 	.breadcrumb,
 	.progress {
@@ -540,7 +540,7 @@
 		margin: 0;
 	}
 	.form-inputs {
-		border-right: 3px solid #ff9324;
+		border-right: 3px solid #00abac;
 	}
 	.quest-child-item,
 	.quest-child-item:last-child {
@@ -551,7 +551,7 @@
 		background-color: #0097A7;
 	}
 	.quest-wrapper.ongoing .quest-status {
-		background-color: #EF6C00;
+		background-color: #0097A7;
 	}
 	.quest-wrapper.main .quest-status {
 		background-color: #C62828;
@@ -573,7 +573,7 @@
 		color: #d9d9d9;
 	}
 	.quest-item-header[data-status="validated"]:hover {
-		background: linear-gradient(to right, #ff9324, transparent) !important;
+		background: linear-gradient(to right, #00abac, transparent) !important;
 		border-left: 10px solid #0097A7 !important;
 		color: #d9d9d9;
 	}
@@ -587,12 +587,12 @@
 		color: #d9d9d9;
 	}
 	.quest-item-header[data-status="ongoing"] {
-		border-left: 10px solid #EF6C00 !important;
+		border-left: 10px solid #0097A7 !important;
 		color: #d9d9d9;
 	}
 	.quest-item-header[data-status="ongoing"]:hover {
-		background: linear-gradient(to right, #FB8C00, transparent) !important;
-		border-left: 10px solid #EF6C00 !important;
+		background: linear-gradient(to right, #047b7b, transparent) !important;
+		border-left: 10px solid #0097A7 !important;
 		color: #d9d9d9;
 	}
 	.container-item {
@@ -616,7 +616,7 @@
 	}
 	ul.pagination>li>a:focus,
 	ul.pagination>li>a:hover {
-		background-color: #ff9324;
+		background-color: #00abac;
 	}
 	.achievement-item--content {
 		background-color: transparent;
@@ -660,7 +660,7 @@
 	.profile-menu .nav li.active a:focus,
 	li[role="presentation"]>a:hover,
 	li[role="presentation"]>a:focus {
-		background-color: #ff9324;
+		background-color: #00abac;
 		color: #d9d9d9;
 	}
 	.main-navbar .main-navbar-user-nav #quest-menu.open a,
@@ -772,11 +772,11 @@
 	.reserved>.fc-bg,
 	.fc-event.reserved {
 		background: none;
-		background-color: #EF6C00 !important;
+		background-color: #0097A7 !important;
 	}
 	.fc-event.fc-resizable {
 		background: none;
-		background-color: #ff9324 !important;
+		background-color: #00abac !important;
 	}
 	.fc-prev-button,
 	.fc-next-button {
@@ -812,7 +812,7 @@
 		margin: 0;
 	}
 	.form-inputs {
-		border-right: 3px solid #ff9324;
+		border-right: 3px solid #00abac;
 	}
 	.quest-child-item,
 	.quest-child-item:last-child {
@@ -823,7 +823,7 @@
 		background-color: #0097A7;
 	}
 	.quest-wrapper.ongoing .quest-status {
-		background-color: #EF6C00;
+		background-color: #0097A7;
 	}
 	.quest-wrapper.main .quest-status {
 		background-color: #C62828;
@@ -845,7 +845,7 @@
 		color: #d9d9d9;
 	}
 	.quest-item-header[data-status="validated"]:hover {
-		background: linear-gradient(to right, #ff9324, transparent) !important;
+		background: linear-gradient(to right, #00abac, transparent) !important;
 		border-left: 10px solid #0097A7 !important;
 		color: #d9d9d9;
 	}
@@ -859,12 +859,12 @@
 		color: #d9d9d9;
 	}
 	.quest-item-header[data-status="ongoing"] {
-		border-left: 10px solid #EF6C00 !important;
+		border-left: 10px solid #0097A7 !important;
 		color: #d9d9d9;
 	}
 	.quest-item-header[data-status="ongoing"]:hover {
-		background: linear-gradient(to right, #FB8C00, transparent) !important;
-		border-left: 10px solid #EF6C00 !important;
+		background: linear-gradient(to right, #047b7b, transparent) !important;
+		border-left: 10px solid #0097A7 !important;
 		color: #d9d9d9;
 	}
 	.container-item {
@@ -888,7 +888,7 @@
 	}
 	ul.pagination>li>a:focus,
 	ul.pagination>li>a:hover {
-		background-color: #ff9324;
+		background-color: #00abac;
 	}
 	.achievement-item--content {
 		background-color: transparent;
